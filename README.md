@@ -1,5 +1,8 @@
 # To-Do List Application
 
+![toDoList](https://github.com/user-attachments/assets/cb716955-58dc-4476-8a89-839360765b10)
+
+
 This project is a To-Do List application built with React using a styled-component approach and atomic design principles. The application features CRUD operations with a backend server to store and manage tasks. 
 
 ## Features
