@@ -1,0 +1,36 @@
+{
+  "toDoList": [
+    {
+      "id": "73bb",
+      "content": "Sınava Çalış",
+      "deadline": "2024-07-03",
+      "addingDate": "23.07.2024 09:26",
+      "updatedDate": "23.07.2024 09:26",
+      "updateStatus": 1
+    },
+    {
+      "id": "3e08",
+      "content": "Alışverişe Çık",
+      "deadline": "2024-07-24",
+      "addingDate": "23.07.2024 09:26",
+      "updatedDate": "",
+      "updateStatus": 0
+    },
+    {
+      "id": "2dcf",
+      "content": "Bir Kitap Oku",
+      "deadline": "2024-08-14",
+      "addingDate": "23.07.2024 09:26",
+      "updatedDate": "23.07.2024 09:27",
+      "updateStatus": 2
+    },
+    {
+      "id": "85ce",
+      "content": "React Öğren",
+      "deadline": "2024-06-28",
+      "addingDate": "23.07.2024 09:27",
+      "updatedDate": "23.07.2024 09:28",
+      "updateStatus": 2
+    }
+  ]
+}
